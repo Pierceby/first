@@ -236,9 +236,7 @@ clientSocket.close()
 
 ## 实验截图
 
-![record1_mosaic](https://github.com/Pierceby/first/blob/main/LearningNotes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B-lab3%EF%BC%9ASMTP%20lab.assets/record1_mosaic.png)
-
-![record1_mosaic](images/record1_mosaic.png)
+![record1_mosaic](../images/record1_mosaic.png)
 
 ## 注意事项以及问题记录
 - 出现502 Invalid input from IP address to mail server 错误 可能发送的命令未遵守协议规范，导致命令未激活可以着重检查一下回车与换行是否遵从了规范
